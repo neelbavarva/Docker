@@ -3,4 +3,4 @@
 <hr>
 
 ### 1. hello-docker
-### 2. basic linux
+### 2. basic-linux
