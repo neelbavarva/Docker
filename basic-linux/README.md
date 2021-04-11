@@ -1,2 +1,7 @@
-## 1. Linux File System
+### 1. Linux File System
 <img align-items="center" src="https://raw.githubusercontent.com/neelbavarva/Docker/main/z_images/linux-file-system.png" />
+
+### 2. Present Working Directory
+```
+pwd
+```
