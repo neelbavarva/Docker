@@ -7,6 +7,4 @@
 </p>
 
 #### Each container is an isolated environment for executing an application.
-<p align="middle">
-  <img width="98%" src="https://raw.githubusercontent.com/neelbavarva/Docker/main/z_images/3-containers.png" />
-</p>
+<img src="https://raw.githubusercontent.com/neelbavarva/Docker/main/z_images/3-containers.png" />
